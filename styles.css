@@ -3,7 +3,7 @@ body, html{
 }
 body{
   margin: 0px;
-  background-color:#444;
+  background-image: url(http://2.media.dorkly.cvcdn.com/13/89/336a28215c215237ff39636e06e035cb.gif);
   font-size: 18px;
 }
 body, a:link, a:visited, a:active{
@@ -15,7 +15,8 @@ body, a:link, a:visited, a:active{
 }
 .topbar{
   height:32px;
-  background-color: #555;
+  font-size: 22px;
+  background-color: #888;
 }
 .title{
   background-color: #777;
@@ -24,4 +25,8 @@ body, a:link, a:visited, a:active{
   border:10px solid red;
   border-radius:10px;
   position:absolute;
+}
+
+span{
+  color: pink;
 }

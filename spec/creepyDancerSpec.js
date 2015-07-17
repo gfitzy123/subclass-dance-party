@@ -1,6 +1,6 @@
-describe("blinkyDancer", function() {
+describe("creepyDancer", function() {
 
-  var blinkyDancer;
+  var creep;
   var timeBetweenSteps = 100;
   var clock;
 
